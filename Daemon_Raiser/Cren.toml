@@ -1,0 +1,14 @@
+[package]
+name = "Daemon_Raiser"
+edition = "1"
+language = "c11"
+
+[[bin]]
+name = "Ray"
+path = "src/start_app.c"
+
+
+[lib]
+name = "Daemon_Raiser"
+path = "src/Daemon_Raiser.c"
+

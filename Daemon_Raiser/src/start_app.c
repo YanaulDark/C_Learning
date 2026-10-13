@@ -10,16 +10,15 @@ void* test(void* arg) {
 }
 
 int main(void) {
-    int qua;
+    unsigned long long qua;
     char message[256];
-
-    if (scanf("%d %255s", &qua, message) != 2) {
+    if (scanf("%lld %255s", &qua, message) != 2) {
         fprintf(stderr, "bad input\n");
         return 1;
     }
 
-    pthread_t threads[qua];   // VLA — массив переменной длины
-    pthread_add(threads, qua, test, message);
+    pthread_t threads[qua];   // VLA — массив переменной длины 
+    pthread_add(threads, qua, test, message); 
     pthread_close(threads, qua);
     return 0;
 }

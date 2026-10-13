@@ -1,0 +1,9 @@
+[package]
+name = "test"
+edition = "1"
+language = "c11"
+
+[lib]
+name = "test"
+path = "src/test.c"
+

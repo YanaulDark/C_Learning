@@ -1,0 +1,13 @@
+/home/yanaul/C_Learning/App_with_Gui/target/debug/deps/uuid-d2278bee29c13a6f.d: /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/lib.rs /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/macros.rs /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/builder.rs /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/error.rs /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/non_nil.rs /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/parser.rs /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/fmt.rs /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/timestamp.rs /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/external.rs
+
+/home/yanaul/C_Learning/App_with_Gui/target/debug/deps/libuuid-d2278bee29c13a6f.rmeta: /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/lib.rs /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/macros.rs /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/builder.rs /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/error.rs /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/non_nil.rs /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/parser.rs /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/fmt.rs /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/timestamp.rs /home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/external.rs
+
+/home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/lib.rs:
+/home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/macros.rs:
+/home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/builder.rs:
+/home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/error.rs:
+/home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/non_nil.rs:
+/home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/parser.rs:
+/home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/fmt.rs:
+/home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/timestamp.rs:
+/home/yanaul/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.28.0/src/external.rs:
